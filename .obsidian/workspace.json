@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "3ed935c0dc9c9a49",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f7cfecfefc6fd9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1911079697360843",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3ECO_Recruiting_Deck.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3ECO_Recruiting_Deck"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6c10596c9233f241",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6d1ac98a3d21bda",
+            "type": "leaf",
+            "state": {
+              "type": "marp-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Deck Preview"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8e1676d5758b8b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7edb5ec55e5fbf04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e21f62e526da1a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "17c028b69cf8b246",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "7028bca49917ee8a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9a14e5207427d653",
+    "type": "split",
+    "children": [
+      {
+        "id": "01b4353df94f4835",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6a96c7b9481027b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "7a1b6a859bec3efe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "c0ca98549f8d56fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "2c729f08a9566c76",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "0a8610657f3ed7d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "marp-slides:Show Slide Preview": false
+    }
+  },
+  "active": "f6d1ac98a3d21bda",
+  "lastOpenFiles": [
+    "wiki/solutions/105_Episodes_Curriculum.md",
+    "3ECO_Recruiting_Deck.md",
+    "AGENTS.md",
+    "SCHEMA.md",
+    "wiki/3ECO_Recruiting_Deck.md",
+    "wiki/metrics/Outcome_and_KPI.md",
+    "wiki/frameworks/CJM_Customer_Journey_Map.md",
+    "wiki/entities/서하윤.md",
+    "wiki/entities/오세은.md",
+    "wiki/entities/김성호.md",
+    "wiki/entities/한정숙.md",
+    "wiki/entities/정해민.md",
+    "wiki/frameworks/JTBD.md",
+    "wiki/solutions/125_Episodes_Curriculum.md",
+    "wiki/frameworks/TAM_SAM_SOM.md",
+    "wiki/frameworks/5_Forces_Analysis.md",
+    "wiki/solutions/Financial_Sustainability_Model.md",
+    "wiki/principles/Principle_2_Free_is_Not_Compromise.md",
+    "wiki/metrics",
+    "wiki/principles",
+    "wiki/solutions",
+    "wiki/frameworks",
+    "raw/assets/3. 문제정의서_학습자관점_v0.1.md"
+  ]
+}
